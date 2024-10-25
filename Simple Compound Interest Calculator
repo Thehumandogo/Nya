@@ -1,2 +1,4 @@
-<Title>Simple Compound Intrest Calcualator<Title>
-<
+Time=input(int)
+StartingAmmount=input(float)
+Intrest=input()
+print(StartingAmmount^([Intrest+1]TIme))
