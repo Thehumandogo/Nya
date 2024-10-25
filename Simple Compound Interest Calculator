@@ -1,4 +1,4 @@
-Time=input(int)
-StartingAmmount=input(float)
-Intrest=input()
-print(StartingAmmount^([Intrest+1]TIme))
+Time=input("Put how long you plan to keep it, in years");
+StartingAmmount=input("How much money did you start with, please dont add dollar sign");
+Intrest=input("Percentage of intrest per year");
+print(StartingAmmount^([Intrest+1]TIme));
